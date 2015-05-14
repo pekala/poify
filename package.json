@@ -1,0 +1,11 @@
+{
+  "name": "poify",
+  "version": "1.0.0",
+  "description": "Browserify transformer for po files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Maciej Pekala",
+  "license": "ISC"
+}
