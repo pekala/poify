@@ -7,5 +7,13 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Maciej Pekala",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "browserify-transform-tools": "^1.4.2",
+    "glob": "^5.0.6",
+    "i18next-conv": "^0.1.4",
+    "node-gettext": "^1.0.1",
+    "sync": "^0.2.5",
+    "through": "^2.3.7"
+  }
 }

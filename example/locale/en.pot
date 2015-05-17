@@ -1,0 +1,33 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: node-gettext\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals = 2; plural = (n !== 1)\n"
+
+msgctxt "cancel"
+msgid "Cancel"
+msgstr ""
+
+msgctxt "save"
+msgid "Save"
+msgstr ""
+
+msgctxt "continue"
+msgid "Continue"
+msgstr ""
+
+msgctxt "menu.publications"
+msgid "Publication List"
+msgstr ""
+
+msgctxt "menu.promotions"
+msgid "Promotions"
+msgstr ""
+
+msgctxt "publicationList.modalMakePublic.title"
+msgid "Publish __count__ document?"
+msgid_plural "Publish __count__ documents?"
+msgstr[0] ""
+msgstr[1] ""

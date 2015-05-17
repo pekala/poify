@@ -1,0 +1,27 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: node-gettext\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals = 2; plural = (n !== 1)\n"
+
+msgctxt "cancel"
+msgid "Cancel"
+msgstr "Cancel (DA)"
+
+msgctxt "save"
+msgid "Save"
+msgstr "Save (DA)"
+
+msgctxt "continue"
+msgid "Continue"
+msgstr "Continue (DA)"
+
+msgctxt "menu.publications"
+msgid "Publication List"
+msgstr "Publication List (DA)"
+
+msgctxt "menu.promotions"
+msgid "Promotions"
+msgstr "Promotions (DA)"
